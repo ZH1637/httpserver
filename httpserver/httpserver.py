@@ -80,3 +80,5 @@ class HTTPServer(object):
 if __name__ == "__main__":
     httpd = HTTPServer(ADDR)
     httpd.serve_forever() #启动http服务
+
+#随便写点啥
